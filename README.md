@@ -21,9 +21,9 @@ As a group, we decided to have 2-3 standups a day and also merge/pull source cod
 * Friday - Presentation & Demo
 
 ##Successes
-
+Stripping back the feature list to determine an MVP, which were able to build well in the allocated time was a huge win for us as a team as it meant we had allocated tasks well. Understanding people's strengths and desires when assigning tasks was vital to ensuring that a quality app was built.
 
 ##Challenges
+The biggest challenge we faced was technical strategy. Even once the user story had been defined and the pseudo code was written, working out how best to write the code - which data structures to use etc. 
 
- 
 ##Next Steps
