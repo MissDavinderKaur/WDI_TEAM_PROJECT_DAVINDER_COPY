@@ -27,3 +27,4 @@ Stripping back the feature list to determine an MVP, which were able to build we
 The biggest challenge we faced was technical strategy. Even once the user story had been defined and the pseudo code was written, working out how best to write the code - which data structures to use etc. 
 
 ##Next Steps
+There are a number of features on the backlog for this application, as we had to descope so much for the MVP! One feature that we really wanted ot add in was email invitations - a Lead Freelancer should be able to email other freelancers to join the site and apply to the project. Also functionality to manage the project, once the team has been created, would be very useful as this would mean that all project information can be held in a central place. Another feature we thought would be useful, is a read-only view of the project for the Client who requested it.
